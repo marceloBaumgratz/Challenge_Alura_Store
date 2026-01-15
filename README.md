@@ -25,7 +25,7 @@ Alura-Store/
 ├── README.md                # Documentação do projeto
 ```
 
-No notebook, o conteúdo está organizado de forma sequencial:
+No notebook, o conteúdo está organizado da seguinte forma:
 
 * Importação das bibliotecas
 * Leitura dos dados
@@ -48,7 +48,8 @@ No notebook, o conteúdo está organizado de forma sequencial:
 
 Para executar o notebook, é necessário ter:
 * Python 3
-* Bibliotecas utilizadas no projeto:
+ 
+Bibliotecas utilizadas no projeto:
   * pandas
   * numpy
   * matplotlib
@@ -56,10 +57,10 @@ Para executar o notebook, é necessário ter:
 #### Execução
 1. Baixe ou clone este repositório:
 ```bash
-git clone <https://github.com/marceloBaumgratz/Challenge_Alura_Store>
+git clone https://github.com/marceloBaumgratz/Challenge_Alura_Store
 ```
 2. Abra o arquivo **AluraStoreBrasil.ipynb**.
-3. Execute as células em ordem para acompanhar a análise, os gráficos e as conclusões.
+3. Execute as células.
 ---
 ### 📚 Observação Final
 #### Este projeto foi desenvolvido no Google Colab como parte do curso em análise de dados na Alura. O foco está na prática, interpretação dos resultados e construção de uma conclusão baseada em dados.
