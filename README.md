@@ -48,7 +48,7 @@ No notebook, o conteúdo está organizado da seguinte forma:
 
 Para executar o notebook, é necessário ter:
 * Python 3
- 
+
 Bibliotecas utilizadas no projeto:
   * pandas
   * numpy
