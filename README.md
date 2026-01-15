@@ -59,7 +59,7 @@ Bibliotecas utilizadas no projeto:
 ```bash
 git clone https://github.com/marceloBaumgratz/Challenge_Alura_Store
 ```
-2. Abra o arquivo **AluraStoreBrasil.ipynb**.
+2. Abra o arquivo **AluraStoreBrasil.ipynb** no seu notebook.
 3. Execute as células.
 ---
 ### 📚 Observação Final
